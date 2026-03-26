@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [What's New in Podhoc — v1.0.6-20260326170943-2ec8c17](releases/v1.0.6-20260326170943-2ec8c17.md) (2026-03-26)
 - [What's New in Podhoc — v1.0.4-20260325112900-861096c](releases/v1.0.4-20260325112900-861096c.md) (2026-03-25)
 - [What's New in Podhoc — v1.0.3-20260325083843-8b93718](releases/v1.0.3-20260325083843-8b93718.md) (2026-03-25)
 - [What's New in Podhoc — v1.0.3-20260320222604-adc835a](releases/v1.0.3-20260320222604-adc835a.md) (2026-03-20)
