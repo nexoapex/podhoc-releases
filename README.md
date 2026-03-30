@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [What's New in Podhoc — v1.0.7-20260330131100-42b1f8f](releases/v1.0.7-20260330131100-42b1f8f.md) (2026-03-30)
 - [What's New in Podhoc — v1.0.7-20260329134028-f2c12e2](releases/v1.0.7-20260329134028-f2c12e2.md) (2026-03-29)
 - [What's New in Podhoc — v1.0.6 - Support for Spotify links and others](releases/v1.0.6-20260326170943-2ec8c17.md) (2026-03-26)
 - [What's New in Podhoc — v1.0.4 - Wishlist and web extensions, and only PRO users scrip editor](releases/v1.0.4-20260325112900-861096c.md) (2026-03-25)
