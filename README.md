@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.8 — presentational:  add v1.1.0 release notes, Telegram/API feat](releases/v1.0.8-20260416144120-ca62a89.md) (2026-04-16)
 - [Release v1.0.8 — seo:  expand FAQ section from 5 to 15 questions in all 8 lan](releases/v1.0.8-20260416104706-a2074f5.md) (2026-04-16)
 - [What's New in Podhoc — v1.0.7-20260330134124-0c2f71f](releases/v1.0.7-20260330134124-0c2f71f.md) (2026-03-30)
 - [What's New in Podhoc — v1.0.7-20260330131100-42b1f8f](releases/v1.0.7-20260330131100-42b1f8f.md) (2026-03-30)
