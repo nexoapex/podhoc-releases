@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.9 — bots:  elevate bot UX — language names, compact buttons, s](releases/v1.0.9-20260421102414-c9e631b.md) (2026-04-21)
 - [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260417133705-94fb129.md) (2026-04-17)
 - [Release v1.0.8 — presentational:  add v1.1.0 release notes, Telegram/API feat](releases/v1.0.8-20260416144120-ca62a89.md) (2026-04-16)
 - [Release v1.0.8 — seo:  expand FAQ section from 5 to 15 questions in all 8 lan](releases/v1.0.8-20260416104706-a2074f5.md) (2026-04-16)
