@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.9 — mobile-app:  unify Podhoc branding across logo/icon surfaces](releases/v1.0.9-20260424135214-4b464e2.md) (2026-04-24)
 - [Release v1.0.9 — presentational-web:  activate AI Podcasts Daily Routine blog](releases/v1.0.9-20260422135946-643a675.md) (2026-04-22)
 - [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260421120026-f4f55f6.md) (2026-04-21)
 - [Release v1.0.9 — bots:  elevate bot UX — language names, compact buttons, s](releases/v1.0.9-20260421102414-c9e631b.md) (2026-04-21)
