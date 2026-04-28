@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260428092230-5e26126.md) (2026-04-28)
 - [Release v1.0.9 — presentational-web:  publish pdf-to-podcast-complete-guide +](releases/v1.0.9-20260427103342-e39fc2a.md) (2026-04-27)
 - [Release v1.0.9 — mobile-app:  unify Podhoc branding across logo/icon surfaces](releases/v1.0.9-20260424135214-4b464e2.md) (2026-04-24)
 - [Release v1.0.9 — presentational-web:  activate AI Podcasts Daily Routine blog](releases/v1.0.9-20260422135946-643a675.md) (2026-04-22)
