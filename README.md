@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260429133530-cdac87f.md) (2026-04-29)
 - [Release v1.0.9 — ci:  IndexNow ping on prod presentational-web deploy](releases/v1.0.9-20260429111851-eb81f02.md) (2026-04-29)
 - [Release v1.0.9 — presentational-web:  SEO/GEO/AIO audit + what-is-ai-podcast ](releases/v1.0.9-20260428155108-1697835.md) (2026-04-28)
 - [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260428092230-5e26126.md) (2026-04-28)
