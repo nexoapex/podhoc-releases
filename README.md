@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.0.9 — presentational-web:  SEO content strategy — 14 new blog po](releases/v1.0.9-20260508200731-144c8f9.md) (2026-05-08)
 - [Release v1.0.9 — presentational-web:  remove AI branding from homepage across](releases/v1.0.9-20260508154029-bf1eded.md) (2026-05-08)
 - [Release v1.0.9 — presentational-web:  GSC indexing + OCR/Casual+Formal remova](releases/v1.0.9-20260507111431-ca0f051.md) (2026-05-07)
 - [Release v1.0.9 — Improvements and Fixes](releases/v1.0.9-20260505171643-aab5680.md) (2026-05-05)
