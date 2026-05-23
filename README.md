@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.0 — dns:  prod www.podhoc.com 301-redirects to apex](releases/v1.1.0-20260523122802-9a7103a.md) (2026-05-23)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523121604-9a7103a.md) (2026-05-23)
 - [Release v1.1.0 — dns:  prod www.podhoc.com 301-redirects to apex](releases/v1.1.0-20260523115429-2ef78c7.md) (2026-05-23)
 - [Release v1.1.0 — dns:  prod www.podhoc.com 301-redirects to apex](releases/v1.1.0-20260523113608-2ef78c7.md) (2026-05-23)
