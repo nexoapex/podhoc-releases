@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523144221-da5de61.md) (2026-05-23)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523105605-8403e0e.md) (2026-05-23)
 - [Release v1.0.9 — mobile,webapp:  warn before submitting private share-link UR](releases/v1.0.9-20260518205929-7cd5b4d.md) (2026-05-18)
 - [Release v1.0.9 — presentational-web:  SEO content strategy — 14 new blog po](releases/v1.0.9-20260508200731-144c8f9.md) (2026-05-08)
