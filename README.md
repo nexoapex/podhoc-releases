@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.0 — seo:  browser-render every sitemap via shared XSL pretty-pri](releases/v1.1.0-20260523173157-64388bf.md) (2026-05-23)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523164747-64388bf.md) (2026-05-23)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523105605-8403e0e.md) (2026-05-23)
 - [Release v1.0.9 — mobile,webapp:  warn before submitting private share-link UR](releases/v1.0.9-20260518205929-7cd5b4d.md) (2026-05-18)
