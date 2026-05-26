@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.0 — seo: url fix + sources hyperlinked + Discover SSR + duration](releases/v1.1.0-20260526053648-7ed2014.md) (2026-05-26)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523192154-92f19eb.md) (2026-05-23)
 - [Release v1.1.0 — seo:  browser-render every sitemap via shared XSL pretty-pri](releases/v1.1.0-20260523173157-64388bf.md) (2026-05-23)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523164747-64388bf.md) (2026-05-23)
