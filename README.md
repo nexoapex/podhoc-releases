@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.1 — Improvements and Fixes](releases/v1.1.1-20260527163344-18362ef.md) (2026-05-27)
 - [Release v1.1.0 — mobile-app:  env-overridable Google OAuth Web Client ID for ](releases/v1.1.0-20260526183228-0b33107.md) (2026-05-26)
 - [Release v1.1.0 — seo: url fix + sources hyperlinked + Discover SSR + duration](releases/v1.1.0-20260526053648-7ed2014.md) (2026-05-26)
 - [Release v1.1.0 — Improvements and Fixes](releases/v1.1.0-20260523192154-92f19eb.md) (2026-05-23)
