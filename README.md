@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.1.3 — Improvements and Fixes](releases/v1.1.3-20260601163733-53e441f.md) (2026-06-01)
 - [Release v1.1.1 — Improvements and Fixes](releases/v1.1.1-20260528111803-6142d96.md) (2026-05-28)
 - [Release v1.1.1 — Improvements and Fixes](releases/v1.1.1-20260527163344-18362ef.md) (2026-05-27)
 - [Release v1.1.0 — mobile-app:  env-overridable Google OAuth Web Client ID for ](releases/v1.1.0-20260526183228-0b33107.md) (2026-05-26)
