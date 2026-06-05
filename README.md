@@ -6,7 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
-- [Release v1.1.3 — user-webapp:  mint + persist SSO refresh token to fix silent](releases/v1.1.3-20260605095935-70f64a6.md) (2026-06-05)
+- [Release v1.1.3 — user-webapp: A bunch of bugfixes and improvements](releases/v1.1.3-20260605095935-70f64a6.md) (2026-06-05)
 - [Release v1.1.3 — Improvements and Fixes](releases/v1.1.3-20260601163733-53e441f.md) (2026-06-01)
 - [Release v1.1.1 — Improvements and Fixes](releases/v1.1.1-20260528111803-6142d96.md) (2026-05-28)
 - [Release v1.1.1 — Improvements and Fixes](releases/v1.1.1-20260527163344-18362ef.md) (2026-05-27)
