@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260717142320-f1dcdc6.md) (2026-07-17)
 - [Release v1.1.4 — mobile,web:  native apps live — Garmin optional + hero bad](releases/v1.1.4-20260610135916-395c63c.md) (2026-06-10)
 - [Release v1.1.4 — Improvements and Fixes](releases/v1.1.4-20260608165804-825eee4.md) (2026-06-08)
 - [Release v1.1.3 — Improvements and Fixes](releases/v1.1.3-20260606072611-44938dd.md) (2026-06-06)
