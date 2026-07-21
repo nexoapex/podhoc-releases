@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.2.0 — presentational-web:  Gemini Notebook rebrand response + mult](releases/v1.2.0-20260721092837-ac3aef0.md) (2026-07-21)
 - [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260718074850-2fb75d1.md) (2026-07-18)
 - [Release v1.2.0 — digest:  seed >=3 curator-verified source feeds per topic](releases/v1.2.0-20260717161341-f1dcdc6.md) (2026-07-17)
 - [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260717152415-f1dcdc6.md) (2026-07-17)
