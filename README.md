@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.2.0 — web,infra:  discover.podhoc.com redirect + Digest CTA A/B + ](releases/v1.2.0-20260724153617-3368f79.md) (2026-07-24)
 - [Release v1.2.0 — experiments:  A/B wave 1 — framework on both surfaces + 11](releases/v1.2.0-20260722130917-0e3036d.md) (2026-07-22)
 - [Release v1.2.0 — presentational-web:  Gemini Notebook rebrand response + mult](releases/v1.2.0-20260721092837-ac3aef0.md) (2026-07-21)
 - [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260718074850-2fb75d1.md) (2026-07-18)
