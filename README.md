@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.2.0 — mobile:  real App Store + Play screenshots with runbook](releases/v1.2.0-20260730103342-c15edf2.md) (2026-07-30)
 - [Release v1.2.0 — web,docs:  RSL 1.0 licensing study + podhoc.com implementati](releases/v1.2.0-20260730093615-68f71b6.md) (2026-07-30)
 - [Release v1.2.0 — presentational-web:  research-papers-to-podcast blog post in](releases/v1.2.0-20260727102336-00b99a2.md) (2026-07-27)
 - [Release v1.2.0 — web,infra:  discover.podhoc.com redirect + Digest CTA A/B + ](releases/v1.2.0-20260724153617-3368f79.md) (2026-07-24)
