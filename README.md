@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260811150623-cb378dc.md) (2026-08-11)
 - [Release v1.2.0 — lambdas:  report the Digest newsletter in the daily ops emai](releases/v1.2.0-20260811124042-7529e86.md) (2026-08-11)
 - [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260802170329-65ea839.md) (2026-08-02)
 - [Release v1.2.0 — infra:  alarm the Cognito signup/login path and the #748/#76](releases/v1.2.0-20260801042810-6356398.md) (2026-08-01)
