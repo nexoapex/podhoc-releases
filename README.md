@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.0 — admin-webapp:  render the first-session activation funnel](releases/v1.3.0-20260820082212-19e30da.md) (2026-08-20)
 - [Release v1.3.0 — Improvements and Fixes](releases/v1.3.0-20260815175247-ae2953a.md) (2026-08-15)
 - [Release v1.2.0 — presentational-web:  audio for neurodivergent students in 8 ](releases/v1.2.0-20260814171041-6dfc135.md) (2026-08-14)
 - [Release v1.2.0 — Improvements and Fixes](releases/v1.2.0-20260811150623-cb378dc.md) (2026-08-11)
