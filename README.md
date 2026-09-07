@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.0 — ops:  add a Bayesian two-month decision read to the A/B read](releases/v1.3.0-20260907132102-0b7f9bc.md) (2026-09-07)
 - [Release v1.3.0 — ops:  add a Bayesian two-month decision read to the A/B read](releases/v1.3.0-20260907131022-0b7f9bc.md) (2026-09-07)
 - [Release v1.3.0 — admin-webapp:  render the first-session activation funnel](releases/v1.3.0-20260820082212-19e30da.md) (2026-08-20)
 - [Release v1.3.0 — Improvements and Fixes](releases/v1.3.0-20260815175247-ae2953a.md) (2026-08-15)
