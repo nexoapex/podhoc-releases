@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.1 — mobile,presentational-web:  AdMob banner on Android + 8-lang](releases/v1.3.1-20260910123604-9e3d817.md) (2026-09-10)
 - [Release v1.3.0 — ops:  add a Bayesian two-month decision read to the A/B read](releases/v1.3.0-20260907132102-0b7f9bc.md) (2026-09-07)
 - [Release v1.3.0 — ops:  add a Bayesian two-month decision read to the A/B read](releases/v1.3.0-20260907131022-0b7f9bc.md) (2026-09-07)
 - [Release v1.3.0 — admin-webapp:  render the first-session activation funnel](releases/v1.3.0-20260820082212-19e30da.md) (2026-08-20)
