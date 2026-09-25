@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20260925152447-40d3ed9.md) (2026-09-25)
 - [Release v1.3.2 — web:  add medical study podcast guide in eight languages](releases/v1.3.2-20260925124341-98765ac.md) (2026-09-25)
 - [Release v1.3.2 — Improvements and Fixes](releases/v1.3.2-20260924125843-d5d9ca7.md) (2026-09-24)
 - [Release v1.3.1 — mobile,presentational-web:  AdMob banner on Android + 8-lang](releases/v1.3.1-20260910123604-9e3d817.md) (2026-09-10)
