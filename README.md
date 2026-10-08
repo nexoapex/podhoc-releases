@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261008094127-7946fbd.md) (2026-10-08)
 - [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261001083018-5465ab4.md) (2026-10-01)
 - [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20260925152447-40d3ed9.md) (2026-09-25)
 - [Release v1.3.2 — web:  add medical study podcast guide in eight languages](releases/v1.3.2-20260925124341-98765ac.md) (2026-09-25)
