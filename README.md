@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261009094249-79487d3.md) (2026-10-09)
 - [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261008124016-f8227a1.md) (2026-10-08)
 - [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261008105059-5e303b8.md) (2026-10-08)
 - [Release v1.3.3 — Improvements and Fixes](releases/v1.3.3-20261008094127-7946fbd.md) (2026-10-08)
