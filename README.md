@@ -6,6 +6,7 @@ Release documents and version history are published here and linked from the Pod
 
 ## Releases
 
+- [Podhoc 1.3.7 — clearer controls, sharing and support](releases/v1.3.7-20261104203037-d51d5e1.md)
 - [Podhoc 1.3.7 — clearer controls, sharing and support](releases/v1.3.7-20261104175038-da76579.md)
 - [Podhoc 1.3.7 — clearer controls, sharing and support](releases/v1.3.7-20261104131328-0ec319c.md)
 - [Podhoc 1.3.7 — clearer controls, sharing and support](releases/v1.3.7-20261023151404-7bf8ee2.md)
